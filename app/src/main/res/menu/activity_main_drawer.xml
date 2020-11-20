@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/personal_details"
+            android:icon="@drawable/personal"
+            android:title="@string/Personal_details" />
+        <item
+            android:id="@+id/edu_details"
+            android:icon="@drawable/education"
+            android:title="@string/Education_details" />
+        <item
+            android:id="@+id/certification"
+            android:icon="@drawable/certification"
+            android:title="@string/certification" />
+        <item
+            android:id="@+id/opportunities"
+            android:icon="@drawable/opportunities"
+            android:title="@string/opportunities" />
+
+        <item
+            android:id="@+id/appliedfor"
+            android:icon="@drawable/application"
+            android:title="@string/applications"/>
+
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/contact"
+            android:title="@string/Contact_us" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="@string/log_out" />
+
+    </group>
+</menu>

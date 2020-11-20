@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_main.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-xxhdpi\\main.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_studentlogo.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\studentlogo.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jcbose.jpg.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\jcbose.jpg"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_application.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\application.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_opportunity_details.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\fragment_opportunity_details.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contact_us.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_applications.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\fragment_applications.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_education_details.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\fragment_education_details.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_education.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\education.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_opportunities.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\opportunities.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_certification.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\certification.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_register.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\activity_student_register.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_opportunity_layout.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\opportunity_layout.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_certification_details.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\fragment_certification_details.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_personal.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\personal.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\menu_home_screen.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\menu\\home_screen.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_opportunities.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\fragment_opportunities.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_certifications.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\fragment_certifications.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mainlogo.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-xxhdpi\\mainlogo.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_screen.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_certificate_layout.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\certificate_layout.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_personal_details.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\fragment_personal_details.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_applications_layout.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\applications_layout.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "K:\\major_project\\finalpay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "K:\\major_project\\finalpay\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    }
+]

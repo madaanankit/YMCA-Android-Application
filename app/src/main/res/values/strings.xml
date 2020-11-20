@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PAY</string>
+    <string name="title_activity_home_screen">Personal Details</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Personal_details">Personal Details</string>
+    <string name="Education_details">Education Details</string>
+    <string name="certification">Certification</string>
+    <string name="opportunities">Opportunities</string>
+    <string name="Contact_us">Contact Us</string>
+    <string name="City">City</string>
+    <string name="FName">Full Name</string>
+    <string name="RNo">Roll Number</string>
+    <string name="Email">Email Address</string>
+    <string name="CNo">Contact Number</string>
+    <string name="Address">Address</string>
+    <string name="State">State</string>
+    <string name="FatherName">Father\'s Name</string>
+    <string name="dob">Date of Birth</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="applications">Applications</string>
+</resources>
